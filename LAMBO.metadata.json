@@ -1,7 +1,6 @@
 {
-  "name": "The LAMBO Pool",
-  "description": "When Lambo?",
+  "name": "🚗 LAMBO pool",
+  "description": "When LAMBO?",
   "ticker": "LAMBO",
-  "homepage": "https://thelambopool.jimdofree.com",
-  "extended": "https://raw.githubusercontent.com/jsg7/c/c/LAMBO.extended-metadata.json"
+  "homepage": "https://thelambopool.jimdofree.com"
 }
