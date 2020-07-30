@@ -2,5 +2,6 @@
   "name": "🦈 The SHARK Pool",
   "description": "Jump into the SHARK pool!",
   "ticker": "SHARK",
-  "homepage": "https://thesharkpool.jimdofree.com"
+  "homepage": "https://thesharkpool.jimdofree.com",
+  "extended": "https://raw.githubusercontent.com/jsg7/c/c/SHARK.exdata.json"
 }
